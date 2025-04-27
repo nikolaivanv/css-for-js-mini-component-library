@@ -43,7 +43,7 @@ const NativeSelect = styled.select`
   height: 100%;
   z-index: 2;
   /* Allow the select to span the full height in Safari */
-  -webkit-appearance: none;
+  appearance: none;
 `;
 
 const PresentationalBit = styled.div`
